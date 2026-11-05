@@ -1,6 +1,6 @@
 cask "shelf" do
-  version "1.0.0"
-  sha256 "706405b6e2790e5e309d8f5603863e77f88db187d3222e7bb815789f742c5a7b"
+  version "1.0.1"
+  sha256 "b1114d28d9a511780f8ef523ca5647d24a5d4b81bbf4510b4fb31838ee5b28e2"
 
   url "https://github.com/xtodx/shelf/releases/download/v#{version}/Shelf-#{version}.dmg"
   name "Shelf"
